@@ -28,4 +28,4 @@ The main goal of the project is to produce a database with relevant and clean da
 
 ## Future Goals
 #1 Cleaning Country and City columns to fix incorrect references like city=New York in Country=Canada.
-#2 Creation of a Transactions
+#2 Creation of a Transactions only table.
